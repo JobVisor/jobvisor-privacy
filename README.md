@@ -1,1 +1,1 @@
-# jobvisor-privacy
+# JobVisor-privacy
